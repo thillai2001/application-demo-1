@@ -34,8 +34,8 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.8.0</muleVersion>
 						<!-- Deploy User Parameter -->
-						<username>${anypoint.username}</username>
-						<password>${anypoint.password}</password>
+						<username>Divyathillai</username>
+						<password>ThillaiDivya01</password>
 						<!-- Environment Parameter -->
 						<environment>Sandbox</environment>
 						<applicationName>application-demo</applicationName>
