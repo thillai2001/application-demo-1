@@ -4,7 +4,7 @@
 
 	<groupId>com.mycompany</groupId>
 	<artifactId>application-demo</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
 	<name>application-demo</name>
@@ -41,9 +41,9 @@
 						<applicationName>application-demo</applicationName>
 						<businessGroup>mastek-48</businessGroup>
 						<workerType>Micro</workerType>
-						<objectStoreV2>true</objectStoreV2>
+						<objectStoreV2>false</objectStoreV2>
 					</cloudHubDeployment>
-					<classifier>mule-application</classifier>
+					<classifier>---- select project type ----</classifier>
 				</configuration>
 			</plugin>
 		</plugins>
